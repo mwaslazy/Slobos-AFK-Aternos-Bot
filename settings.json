@@ -8,7 +8,7 @@
   "server": {
     "ip": "wtappinggermans.mcsh.io",
     "port": 25565,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
